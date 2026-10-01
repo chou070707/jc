@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 228,
+    "width": 1875,
+    "height": 2500,
+    "isRotated": false,
+    "originalWidth": 2497,
+    "originalHeight": 2500
+  },
+  "imagePath": "image-targets/richter_luminance.jpg",
+  "metadata": null,
+  "name": "richter",
+  "resources": {
+    "originalImage": "richter_original.jpg",
+    "croppedImage": "richter_cropped.jpg",
+    "thumbnailImage": "richter_thumbnail.jpg",
+    "luminanceImage": "richter_luminance.jpg"
+  },
+  "created": 1790820592459,
+  "updated": 1790821495879
+}
